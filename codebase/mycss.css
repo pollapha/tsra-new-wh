@@ -1,0 +1,32 @@
+.myhover
+{
+	background-color:#FFAAAA;
+}
+.my_disabled
+{
+	color:red;
+}
+.multiline
+{
+	line-height: 30px !important;
+}
+.highlight-yellow
+{
+	background-color:#F39C12;
+	color:white;
+}
+.highlight-blue
+{
+	background-color:#3498db;
+	color:white;
+}
+.highlight-red
+{
+	background-color:#F64747;
+	color:white;
+}
+.highlight-gray
+{
+	background-color:#6C7A89;
+	color:white;
+}

@@ -1,0 +1,10 @@
+<?php
+include('start.php');
+session_start();
+unset($_SESSION['xxxID']);    	
+unset($_SESSION['xxxFName']); 	
+unset($_SESSION['xxxRole']);    
+unset($_SESSION['xxxPermission']);
+unset($_SESSION['xxxImage']);    
+header("Location:login.php");
+?>

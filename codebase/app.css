@@ -1,0 +1,36 @@
+/* toolbar */
+.toolbar_button button{
+	padding:0;
+	text-align:center;
+}
+.main_link{
+	cursor: pointer;
+}
+.webix_view.toolbar_photo > div{
+	padding:0px;
+}
+.mainphoto{
+	border-radius:25px;
+	width:38px;
+	height:38px;
+	cursor:pointer;
+}
+.mainphoto:hover{
+	opacity:0.8;
+}
+
+.question .webix_icon {
+    cursor:pointer;
+    margin-right: 50%;
+    margin-top: 0%;
+}
+
+.webix_button_green.webix_el_button button {
+    background:#2ba12b !important;
+    color:#fff !important;
+}
+
+.webix_button_green.webix_el_button button > span {
+    color:#fff !important;
+}
+
